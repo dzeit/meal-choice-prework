@@ -1,4 +1,4 @@
-def meal_choice(type_of_meal = meat)
+def meal_choice(type_of_meal=meat)
   puts "Today's meal is #{type_of_meal}."
 end
 
