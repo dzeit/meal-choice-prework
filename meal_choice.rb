@@ -1,6 +1,3 @@
 def meal_choice(menu = "meat")
-  menu 
+  menu
 end
-
-
-
