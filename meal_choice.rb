@@ -4,6 +4,6 @@ def meal_choice(type_of_meal="meat")
   puts type_of_meal
 end
 
-def type_of_meal("vegan")
+def type_of_meal(vegan)
   puts type_of_meal
 end
